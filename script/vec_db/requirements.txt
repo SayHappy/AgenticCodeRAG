@@ -1,0 +1,13 @@
+# Core dependencies
+sqlite-vec>=0.1.0
+numpy>=1.24.0
+pathlib>=1.0.1
+
+# Embedding dependencies (optional but recommended)
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# For parsing/chunking support
+# Depending on your specific chunker implementation
+tree-sitter>=0.20.0
+grep-ast>=0.1.0 

@@ -1,0 +1,10 @@
+PyYAML>=6.0
+pygments
+grep-ast==0.8.1
+rich
+markitdown[docx, xlsx, xls, pdf]==0.1.1
+sqlite_vec==0.1.6
+numpy>=1.19.0
+sentence-transformers>=2.2.0
+qwen-agent[gui, mcp]
+tiktoken

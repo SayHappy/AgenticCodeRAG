@@ -1,0 +1,8 @@
+qwen-agent[gui,mcp]>=0.1.0
+sentence-transformers>=2.2.0
+sqlite_vec>=0.1.6
+numpy>=1.19.0
+grep-ast>=0.8.1
+rich
+markitdown[docx,xlsx,xls,pdf]>=0.1.1
+tiktoken 
